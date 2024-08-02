@@ -12,7 +12,7 @@ const App = () => {
     };
   return (
     <div> <button onClick={buttonClick} className="button">
-    Hello App
+    Hello 
    </button></div>
   )
 }
